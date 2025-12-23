@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\projects\\wep_projects\\all dream\\progCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\models\\developermodel\\developermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\models\\developermodel\\developermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\models\\project\\projectdeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\models\\project\\projectdeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\models\\project\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\models\\project\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\dtos\\user\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\dtos\\user\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\models\\clientprofile\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\models\\clientprofile\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\dtos\\user\\updateclientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\dtos\\user\\updateclientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\models\\usermodel\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\models\\usermodel\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\models\\usermodel\\userroleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\models\\usermodel\\userroleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\migrations\\20251214140015_usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\migrations\\20251214140015_usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\controllers\\dashboard\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\controllers\\dashboard\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\progcompany.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\progcompany.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\progcompany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\progcompany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|f:\\projects\\wep_projects\\all dream\\progcompany\\progcompany\\progcompany.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D257F09-7017-47A8-AE91-AB2B0EF0CFB5}|progCompany\\progCompany.csproj|solutionrelative:progcompany\\progcompany.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "progCompany\\Controllers\\ProjectController.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "progCompany\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:37:39.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectDeveloper.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\Project\\ProjectDeveloper.cs",
+              "RelativeDocumentMoniker": "progCompany\\Models\\Project\\ProjectDeveloper.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\Project\\ProjectDeveloper.cs",
+              "RelativeToolTip": "progCompany\\Models\\Project\\ProjectDeveloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:34:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\Project\\Project.cs",
+              "RelativeDocumentMoniker": "progCompany\\Models\\Project\\Project.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\Project\\Project.cs",
+              "RelativeToolTip": "progCompany\\Models\\Project\\Project.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:33:36.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "developerModel.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\DeveloperModel\\developerModel.cs",
+              "RelativeDocumentMoniker": "progCompany\\Models\\DeveloperModel\\developerModel.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\DeveloperModel\\developerModel.cs",
+              "RelativeToolTip": "progCompany\\Models\\DeveloperModel\\developerModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:55:10.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "progCompany\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "progCompany\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:34:19.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "projectDto.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\dtos\\projectDto.cs",
+              "RelativeDocumentMoniker": "progCompany\\dtos\\projectDto.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\dtos\\projectDto.cs",
+              "RelativeToolTip": "progCompany\\dtos\\projectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:36:41.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignInDto.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\dtos\\User\\SignInDto.cs",
+              "RelativeDocumentMoniker": "progCompany\\dtos\\User\\SignInDto.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\dtos\\User\\SignInDto.cs",
+              "RelativeToolTip": "progCompany\\dtos\\User\\SignInDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:17:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Controllers\\Users\\UserController.cs",
+              "RelativeDocumentMoniker": "progCompany\\Controllers\\Users\\UserController.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Controllers\\Users\\UserController.cs",
+              "RelativeToolTip": "progCompany\\Controllers\\Users\\UserController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:20:20.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "updateClientProfile.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\dtos\\User\\updateClientProfile.cs",
+              "RelativeDocumentMoniker": "progCompany\\dtos\\User\\updateClientProfile.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\dtos\\User\\updateClientProfile.cs",
+              "RelativeToolTip": "progCompany\\dtos\\User\\updateClientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:46:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "progCompany.http",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\progCompany.http",
+              "RelativeDocumentMoniker": "progCompany\\progCompany.http",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\progCompany.http",
+              "RelativeToolTip": "progCompany\\progCompany.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-14T14:03:53.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\UserModel\\UserClass.cs",
+              "RelativeDocumentMoniker": "progCompany\\Models\\UserModel\\UserClass.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\UserModel\\UserClass.cs",
+              "RelativeToolTip": "progCompany\\Models\\UserModel\\UserClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:21:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientProfile.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\ClientProfile\\ClientProfile.cs",
+              "RelativeDocumentMoniker": "progCompany\\Models\\ClientProfile\\ClientProfile.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\ClientProfile\\ClientProfile.cs",
+              "RelativeToolTip": "progCompany\\Models\\ClientProfile\\ClientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T16:02:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dashBoardController.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Controllers\\dashboard\\dashBoardController.cs",
+              "RelativeDocumentMoniker": "progCompany\\Controllers\\dashboard\\dashBoardController.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Controllers\\dashboard\\dashBoardController.cs",
+              "RelativeToolTip": "progCompany\\Controllers\\dashboard\\dashBoardController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:54:15.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "progCompany\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "progCompany\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:59:00.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251214140015_usermodel.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Migrations\\20251214140015_usermodel.cs",
+              "RelativeDocumentMoniker": "progCompany\\Migrations\\20251214140015_usermodel.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Migrations\\20251214140015_usermodel.cs",
+              "RelativeToolTip": "progCompany\\Migrations\\20251214140015_usermodel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:00:15.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAYVAAAAAAAAAAAswBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-14T13:49:12.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\appsettings.json",
+              "RelativeDocumentMoniker": "progCompany\\appsettings.json",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\appsettings.json",
+              "RelativeToolTip": "progCompany\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T13:36:00.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Program.cs",
+              "RelativeDocumentMoniker": "progCompany\\Program.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Program.cs",
+              "RelativeToolTip": "progCompany\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:35:43.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "progCompany.csproj",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\progCompany.csproj",
+              "RelativeDocumentMoniker": "progCompany\\progCompany.csproj",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\progCompany.csproj",
+              "RelativeToolTip": "progCompany\\progCompany.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T13:33:49.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\dtos\\User\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "progCompany\\dtos\\User\\RegisterDto.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\dtos\\User\\RegisterDto.cs",
+              "RelativeToolTip": "progCompany\\dtos\\User\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:25:57.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRoleClass.cs",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\UserModel\\UserRoleClass.cs",
+              "RelativeDocumentMoniker": "progCompany\\Models\\UserModel\\UserRoleClass.cs",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\Models\\UserModel\\UserRoleClass.cs",
+              "RelativeToolTip": "progCompany\\Models\\UserModel\\UserRoleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:24:53.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "progCompany",
+              "DocumentMoniker": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\progCompany.csproj",
+              "RelativeDocumentMoniker": "progCompany\\progCompany.csproj",
+              "ToolTip": "F:\\projects\\wep_projects\\all dream\\progCompany\\progCompany\\progCompany.csproj",
+              "RelativeToolTip": "progCompany\\progCompany.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T13:18:38.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
